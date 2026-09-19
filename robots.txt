@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinar-jaya-sae-pupuk.cvsinarjayasae.workers.dev/sitemap.xml
